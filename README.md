@@ -29,7 +29,7 @@ Esta landing page é uma simulação de uma cafeteria fictícia, criada apenas c
 - Google Fonts (Fontes);
 - Font Awesome (Ícones);
 - ScrollReveal (Scroll);
-- ChatGPT (Descrições e Nomes).
+- ChatGPT (Descrições/Nomes Fictícios).
 
 ## Imagens Usadas:
 
@@ -40,4 +40,5 @@ Esta landing page é uma simulação de uma cafeteria fictícia, criada apenas c
 <a href="https://pt.pngtree.com/freepng/a-cup-of-morning-cappuccino-latte-in-a-round-cup-marshmallow_13399098.html">Coffee 3</a>
 
 <a href="https://pngtree.com/freepng/iced-coffee-with-beans_20025453.html">Coffee 4</a>
+
 
