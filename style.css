@@ -75,6 +75,10 @@ section{
   font-size: 2.1875rem;
 }
 
+.section-subtitle span{
+  color: var(--color-primary1);
+}
+
 /* HEADER */
 header{
   width: 100%;
@@ -83,6 +87,10 @@ header{
   top: 0;
   background-color: #eee3d8;
   z-index: 3;
+}
+
+#body a{
+  text-decoration: none;
 }
 
 .nav-bar{

@@ -2,11 +2,13 @@
 
 <img width="1450" height="932" alt="Image" src="https://github.com/user-attachments/assets/32220ffc-6ef5-4a67-b811-c0d9821caecc" />
 
+<img width="409" height="730" alt="Image" src="https://github.com/user-attachments/assets/2ce3d93e-7781-4ceb-b680-b9fc97df13c6" />
+
 Esta landing page é uma simulação de uma cafeteria fictícia, criada apenas como exercício prático de HTML, CSS e JavaScript. O projeto inclui seções de início, cardápio e depoimentos, com elementos interativos como botões, ícones de redes sociais e efeitos visuais. O objetivo foi treinar layout responsivo, manipulação de estilos, uso de fontes externas, integração de ícones e técnicas de design moderno, sem fins comerciais ou reais.
 
 ## 🌐 Visualize o projeto:
 
-**[Ver Projeto Online](https://landing-page-coffee-cyan.vercel.app)**
+**[Ver Projeto Online]()**
 
 ## 🛠️ Tecnologias Utilizadas:
 
@@ -28,13 +30,14 @@ Esta landing page é uma simulação de uma cafeteria fictícia, criada apenas c
 
 - Google Fonts (Fontes);
 - Font Awesome (Ícones);
-- ScrollReveal (Scroll).
+- ScrollReveal (Scroll);
+- ChatGPT (Descrições e Nomes).
 
 ## Imagens Usadas:
 
 
-<a href="https://pngtree.com/freepng/flying-cup-of-coffee-with-splash-and_15739217.html">Coffe Principal</a> <br>
-<a href="https://pngtree.com/freepng/hot-coffee-cup_20270196.html">Coffee 1</a> <br>
-<a href="https://pngtree.com/freepng/delicious-cappuccino-coffee-cup-with-frothy-latte-art-and-scattered-roasted-beans_19991380.html">Coffee 2</a><br>
-<a href="https://pt.pngtree.com/freepng/a-cup-of-morning-cappuccino-latte-in-a-round-cup-marshmallow_13399098.html">Coffee 3</a> <br>
+<a href="https://pngtree.com/freepng/flying-cup-of-coffee-with-splash-and_15739217.html">Coffe Principal</a>
+<a href="https://pngtree.com/freepng/hot-coffee-cup_20270196.html">Coffee 1</a>
+<a href="https://pngtree.com/freepng/delicious-cappuccino-coffee-cup-with-frothy-latte-art-and-scattered-roasted-beans_19991380.html">Coffee 2</a>
+<a href="https://pt.pngtree.com/freepng/a-cup-of-morning-cappuccino-latte-in-a-round-cup-marshmallow_13399098.html">Coffee 3</a>
 <a href="https://pngtree.com/freepng/iced-coffee-with-beans_20025453.html">Coffee 4</a>
