@@ -8,7 +8,7 @@ Esta landing page é uma simulação de uma cafeteria fictícia, criada apenas c
 
 ## 🌐 Visualize o projeto:
 
-**[Ver Projeto Online]()**
+**[Ver Projeto Online](https://landing-page-coffee-cyan.vercel.app)**
 
 ## 🛠️ Tecnologias Utilizadas:
 
@@ -40,4 +40,5 @@ Esta landing page é uma simulação de uma cafeteria fictícia, criada apenas c
 <a href="https://pngtree.com/freepng/hot-coffee-cup_20270196.html">Coffee 1</a>
 <a href="https://pngtree.com/freepng/delicious-cappuccino-coffee-cup-with-frothy-latte-art-and-scattered-roasted-beans_19991380.html">Coffee 2</a>
 <a href="https://pt.pngtree.com/freepng/a-cup-of-morning-cappuccino-latte-in-a-round-cup-marshmallow_13399098.html">Coffee 3</a>
+
 <a href="https://pngtree.com/freepng/iced-coffee-with-beans_20025453.html">Coffee 4</a>
