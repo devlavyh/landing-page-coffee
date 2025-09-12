@@ -1,8 +1,6 @@
 # ☕ Landing Page | Coffee
 
-<img width="1450" height="932" alt="Image" src="https://github.com/user-attachments/assets/32220ffc-6ef5-4a67-b811-c0d9821caecc" />
-
-<img width="409" height="730" alt="Image" src="https://github.com/user-attachments/assets/2ce3d93e-7781-4ceb-b680-b9fc97df13c6" />
+<img width="1480" height="955" alt="Image" src="https://github.com/user-attachments/assets/7eb261a8-7261-4574-ae1b-c9f50cfa4490" />
 
 Esta landing page é uma simulação de uma cafeteria fictícia, criada apenas como exercício prático de HTML, CSS e JavaScript. O projeto inclui seções de início, cardápio e depoimentos, com elementos interativos como botões, ícones de redes sociais e efeitos visuais. O objetivo foi treinar layout responsivo, manipulação de estilos, uso de fontes externas, integração de ícones e técnicas de design moderno, sem fins comerciais ou reais.
 
@@ -42,3 +40,4 @@ Esta landing page é uma simulação de uma cafeteria fictícia, criada apenas c
 <a href="https://pt.pngtree.com/freepng/a-cup-of-morning-cappuccino-latte-in-a-round-cup-marshmallow_13399098.html">Coffee 3</a>
 
 <a href="https://pngtree.com/freepng/iced-coffee-with-beans_20025453.html">Coffee 4</a>
+
